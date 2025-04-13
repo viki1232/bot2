@@ -1,0 +1,92 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593998081000@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03DE612B9A7B8EB4BC3',
+    participant: undefined
+  },
+  messageTimestamp: 1744532628,
+  pushName: 'SmartLink Conexion Inteligente con La Limpieza',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'SmartLink Conexion Inteligente con La Limpieza',
+  body: 'hola',
+  from: '593998081000'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e22546b-4ce5-440a-b7a1-255794dfeb78',
+  keyword: 'key_1ffd5adf-dda7-43ca-912a-111af9229b33',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a1dee00531ab35fac790fede78eaf002'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d1e26f6-d405-4456-a60c-a6ca1b59819a',
+  keyword: 'ans_9e22546b-4ce5-440a-b7a1-255794dfeb78',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c29fb3e9bf1f11434b44c48e01a3016a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593998081000@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09C9BACB7B23F1241BE',
+    participant: undefined
+  },
+  messageTimestamp: 1744532630,
+  pushName: 'SmartLink Conexion Inteligente con La Limpieza',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      type: 4,
+      ephemeralExpiration: 0,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'SmartLink Conexion Inteligente con La Limpieza',
+  body: '',
+  from: '593998081000'
+}
