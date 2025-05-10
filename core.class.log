@@ -1,0 +1,78 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593991102959@s.whatsapp.net',
+    fromMe: false,
+    id: '6E77560052092E7D3C887451521C9F04',
+    participant: undefined
+  },
+  messageTimestamp: 1746837103,
+  pushName: '𝐕𝐢𝐜𝐤𝐢',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cual es la oferta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cual es la oferta',
+  from: '593991102959'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_231602ee-7856-457a-9f67-9747d47317c6',
+  keyword: 'key_6505d6ba-51eb-4ab2-b6db-408e891ee04d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2447382eb088583eb8475320feb3453f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593991102959@s.whatsapp.net',
+    fromMe: false,
+    id: '9C84D177AAC066CDBF565A39DF9F42DD',
+    participant: undefined
+  },
+  messageTimestamp: 1746837110,
+  pushName: '𝐕𝐢𝐜𝐤𝐢',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cual es la oferta',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cual es la oferta',
+  from: '593991102959'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_231602ee-7856-457a-9f67-9747d47317c6',
+  keyword: 'key_6505d6ba-51eb-4ab2-b6db-408e891ee04d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2447382eb088583eb8475320feb3453f'
+}
