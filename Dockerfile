@@ -12,6 +12,7 @@ COPY package*.json ./
 
 # ✅ Instala las dependencias con flags que evitan conflictos y aseguran compatibilidad
 RUN npm install --platform=linux --arch=x64 --legacy-peer-deps
+RUN npm rebuild sharp --platform=linux --arch=x64
 
 COPY . .
 
